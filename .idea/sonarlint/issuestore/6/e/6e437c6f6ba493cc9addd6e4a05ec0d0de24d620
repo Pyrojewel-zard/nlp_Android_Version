@@ -1,0 +1,14 @@
+
+X
+java:S3457¶"AFormat specifiers should be used instead of string concatenation.(—¯¥‚
+]
+java:S1126¸"AReplace this if-then-else statement by a single return statement.(»ÕÏİúÿÿÿÿ
+a
+java:S1124É"EReorder the modifiers to comply with the Java Language Specification.(Ï»Àùÿÿÿÿ
+u
+java:S2293É"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ï»Àùÿÿÿÿ
+k	java:S117h"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈèôÌùÿÿÿÿ
+N
+java:S2629¶"7Use the built-in formatting to construct this argument.(—¯¥‚
+X
+java:S3518E"=Make sure "round" can't be zero before doing this modulation.(Í¤ãşûÿÿÿÿ

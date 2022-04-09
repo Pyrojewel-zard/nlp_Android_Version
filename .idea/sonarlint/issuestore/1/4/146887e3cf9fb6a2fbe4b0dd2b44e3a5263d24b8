@@ -1,0 +1,27 @@
+
+8
+java:S2386("Make this member "protected".(«£¹‚ûÿÿÿÿ
+3
+java:S2386*"Make this member "protected".(»À«à
+C	java:S108O")Either remove or fill this block of code.(õŠ†üÿÿÿÿ
+>	java:S108b")Either remove or fill this block of code.(”ı¾
+8
+java:S1110Å"!Remove these useless parentheses.(€ËÉç
+8
+java:S1110Å"!Remove these useless parentheses.(€ËÉç
+O	java:S106â"9Replace this use of System.out or System.err by a logger.(ßúŠ
+T	java:S106ã"9Replace this use of System.out or System.err by a logger.(‚¡×Œùÿÿÿÿ
+T	java:S106ä"9Replace this use of System.out or System.err by a logger.(‡Šñüÿÿÿÿ
+T	java:S106å"9Replace this use of System.out or System.err by a logger.(ªÂ‰Îøÿÿÿÿ
+g
+java:S1764å"KCorrect one of the identical sub-expressions on both sides of operator "=="(ªÂ‰Îøÿÿÿÿ
+O	java:S106æ"9Replace this use of System.out or System.err by a logger.(Í¥Ö˜
+T	java:S106ç"9Replace this use of System.out or System.err by a logger.(ê–å øÿÿÿÿ
+O	java:S106ê"9Replace this use of System.out or System.err by a logger.(™è‰›
+T	java:S106ë"9Replace this use of System.out or System.err by a logger.(ûú¸Îÿÿÿÿÿ
+O	java:S106í"9Replace this use of System.out or System.err by a logger.(ö¤îÌ
+T	java:S106î"9Replace this use of System.out or System.err by a logger.(„ÄŞÜûÿÿÿÿ
+T	java:S106ï"9Replace this use of System.out or System.err by a logger.(íù»½ûÿÿÿÿ
+T	java:S106ğ"9Replace this use of System.out or System.err by a logger.(ìÏËÒúÿÿÿÿ
+N	java:S106ñ"9Replace this use of System.out or System.err by a logger.(¨ÿ¯
+T	java:S106ò"9Replace this use of System.out or System.err by a logger.(”¥ıçşÿÿÿÿ
